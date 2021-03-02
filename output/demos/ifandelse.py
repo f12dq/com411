@@ -1,4 +1,3 @@
-
 print("What is your name?")
 #primitive data types-string,integer,float,bool.
 n =str(input())
